@@ -26,7 +26,7 @@ Welcome to my personal portfolio! 🚀
 
 ## 🚀 Featured Projects
 
-### 💼 [Job Application Tracker](https://github.com/RedEyeBunny/job-tracker)
+### 💼 [Job Application Tracker](https://github.com/RedEyeBunny/JobJarvisBackend)
 Track all your job applications in one place! Built with React and Python, with Gmail integration to auto-update replies and status.
 
 ### 🧠 [Credit Risk Analyzer](https://github.com/RedEyeBunny/credit-risk-analysis)
